@@ -1,0 +1,6 @@
+export const MMPLAYER_CONFIG = {
+  // PLAYLIST_ID: 3778678,
+  // PLAY_MODE: PLAY_MODE.LIST_LOOP,
+  VOLUME: 0.8,
+  // BACKGROUND: BACKGROUNDS[Math.floor(Math.random() * BACKGROUNDS.length)],
+};
